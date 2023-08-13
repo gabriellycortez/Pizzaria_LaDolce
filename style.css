@@ -215,6 +215,14 @@ html {
     display: grid;
     justify-content: center;
     align-items: center;
+    grid-template-columns: 150px 150px;
+    margin-left: 6rem;
+}
+
+.itens-cardapio .info h4 span {
+    font-size:1.6rem;
+    color:#585858;
+    text-decoration: underline;
 }
 
 .itens-cardapio img {
